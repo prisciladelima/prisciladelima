@@ -50,7 +50,7 @@
     <!-- Blue Core Mentor -->
     <td>
       <a href="https://www.credly.com/badges/febe655d-385d-43a2-8c95-a9b821a28cd9/public_url">
-        <img width="120" height="120"src="https://images.credly.com/size/680x680/images/5fc0a9df-5ff7-4bcd-8eb8-5bf512eb3a0c/Blue-Core-Mentor.png" alt="Blue Core Mentor badge image. Validation. Advanced level. Issued by IBM">
+        <img width="120" height="120" src="https://images.credly.com/size/680x680/images/26fe3423-8ead-4ab5-a19e-7d16f242a3ac/IBM-Mentor-template.png" alt="Blue Core Mentor badge image. Validation. Advanced level. Issued by IBM">
       </a>
     </td>
     <!-- IBM Agile Achiever-->
